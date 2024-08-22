@@ -186,19 +186,19 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/hugo-profile
 
-      - title: 당근마켓 클론
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: 공구친구
+        content: 1인 가구를 위해 설계된 공동구매 플랫폼
+        image: /images/projects/main_pos.png  
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
+          link: https://github.com/moovingsloth/gonggu_chingu
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "KOTLIN"
+          - "FIREBASE"
         links:
         
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/moovingsloth/gonggu_chingu
 
       - title: Personal Blog
         content: A clean and simple Hugo template for personal portfolio and blog.
